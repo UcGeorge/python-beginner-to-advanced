@@ -53,7 +53,7 @@ Before starting the course, you should have a basic understanding of programming
 To get started, simply clone this repository to your local machine using the following command:
 
 ```bash
-$ git clone https://github.com/<your_username>/python-beginner-to-advanced.git
+$ git clone https://github.com/UcGeorge/python-beginner-to-advanced.git
 ```
 
 And then, follow along with the lessons and exercises in the repository. Good luck and happy learning!
